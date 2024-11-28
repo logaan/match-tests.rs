@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-./target/debug/nana-wasm
+./target/debug/match-tests
 

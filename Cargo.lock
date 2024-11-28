@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "nana-wasm"
+name = "match-tests"
 version = "0.1.0"
